@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600;700&display=swap');
+
+
+clr-header.header{
+  background-color: #2A3F54;
+  border-bottom: 3px solid #D9DEE4;
+}
+
+.content-area{
+  background-color: #e7eaeb;
+  font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.471;
+}
+
+h1{
+  margin-top: 0px;
+  font-size: 25px;
+  color:#e67e22;
+  line-height: 45px;
+  margin-left: 40px;
+  font-family: 'Dosis', sans-serif;
+}
+
+.sidenav{
+  width: 200px;
+  background-color: #D5DBDB;
+  padding-top: 15px;
+}
+
+
